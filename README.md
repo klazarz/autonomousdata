@@ -1,1 +1,1 @@
-Storing my kindle highlights in Autonomous Database
+Storing data in Autonomous Database
